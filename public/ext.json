@@ -1,0 +1,9 @@
+{
+  "identifier": "dev.kerstman.investment-tracker",
+  "name": "Investment Tracker",
+  "content_type": "SN|Component",
+  "area": "editor-editor",
+  "version": "1.0.0",
+  "description": "Track investment transactions with an interactive table editor.",
+  "url": "https://kerstm.github.io/sn-investment-tracker/"
+}
