@@ -150,6 +150,7 @@ function renderSummary() {
 }
 
 function render() {
+  transactions.sort((a, b) => b.date.localeCompare(a.date));
   renderTransactions();
   renderSummary();
   renderSelectOptions();
